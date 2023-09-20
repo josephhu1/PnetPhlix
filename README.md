@@ -9,4 +9,4 @@ PnetPhlix is a movie database recommender that gives users movie recommendations
 <img width="270" alt="Screenshot 2023-09-20 at 12 07 19 AM" src="https://github.com/josephhu7/PnetPhlix/assets/108597065/9db1981e-0afa-4116-8457-b778d029a8b2">
 <img width="292" alt="Screenshot 2023-09-20 at 12 07 52 AM" src="https://github.com/josephhu7/PnetPhlix/assets/108597065/048c9846-1623-4114-a594-afde24989fcc">
 
-Side Note: I didn't upload the the user and movie data due to the huge size of the datasets
+Side Note: I didn't upload the the user and movie data due to the sheer size of the datasets
