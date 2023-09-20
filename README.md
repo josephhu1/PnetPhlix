@@ -2,7 +2,8 @@
 
 PnetPhlix is a movie database recommender that gives users movie recommendations. The algorithm is designed so that it analyzes past movies (and its associated attributes) a user has watched and identifies new movies for a user to watch. This project contains a special emphasis on the usage of trees and hash-maps. 
 
-treemm.h contains my own implementation of a multimap data structure that maps a key to numerous values based off a binary search tree.\
+treemm.h contains my own implementation of a multimap data structure that maps a key to numerous values based off a binary search tree.
+
 The recommender class uses numerous hash-maps to minimize time spent for compiler to provide movie recommendations
 
 <img width="270" alt="Screenshot 2023-09-20 at 12 07 19 AM" src="https://github.com/josephhu7/PnetPhlix/assets/108597065/9db1981e-0afa-4116-8457-b778d029a8b2">
