@@ -5,5 +5,5 @@ PnetPhlix is a movie database recommender that gives users movie recommendations
 treemm.h contains my own implementation of a multimap data structure that maps a key to numerous values based off a binary search tree. 
 Here are some screenshots of the movie recommender:
 
-<img width="480" alt="Screenshot 2023-09-19 at 10 56 52 PM" src="https://github.com/josephhu7/PnetPhlix/assets/108597065/068b59c2-b85a-4b5f-b342-91a23da3d036">
-<img width="480" alt="Screenshot 2023-09-19 at 10 57 10 PM" src="https://github.com/josephhu7/PnetPhlix/assets/108597065/1cf000e0-ffaf-4318-98d9-5f5e5c9a2720">
+<img width="270" alt="Screenshot 2023-09-20 at 12 07 19 AM" src="https://github.com/josephhu7/PnetPhlix/assets/108597065/9db1981e-0afa-4116-8457-b778d029a8b2">
+<img width="292" alt="Screenshot 2023-09-20 at 12 07 52 AM" src="https://github.com/josephhu7/PnetPhlix/assets/108597065/048c9846-1623-4114-a594-afde24989fcc">
